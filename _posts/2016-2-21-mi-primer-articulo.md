@@ -9,6 +9,8 @@ Este es mi primer artículo
 
 bla bla bla
 
+![un gatito]({{ site.baseurl }}/images/kitten.jpg)
+
 ### Subsección 1
 
 adskfjasdñlfkjadslfkjs
