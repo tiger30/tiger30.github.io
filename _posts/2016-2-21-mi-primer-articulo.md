@@ -14,3 +14,12 @@ bla bla bla
 ### Subsección 1
 
 adskfjasdñlfkjadslfkjs
+
+``` kotlin
+val x = 21
+when (x) {
+  1 -> "Hello"
+  21 -> "Goodbye"
+  else -> "Nothing"
+}
+```
