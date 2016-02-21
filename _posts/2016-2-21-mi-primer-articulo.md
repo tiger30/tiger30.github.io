@@ -15,11 +15,8 @@ bla bla bla
 
 adskfjasdñlfkjadslfkjs
 
-``` kotlin
-val x = 21
-when (x) {
-  1 -> "Hello"
-  21 -> "Goodbye"
-  else -> "Nothing"
-}
+``` java
+int x = 1;
+int y = 2;
+int z = x + y;
 ```
