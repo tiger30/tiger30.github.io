@@ -9,7 +9,7 @@ name: haiDang Ngo
 description: This is my Github profile
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/2178243?v=3&s=460
+avatar: https://secure.gravatar.com/avatar/79a6540c6733174a637b73d0f92ddf54
 
 #
 # Flags below are optional
@@ -19,17 +19,17 @@ avatar: https://avatars2.githubusercontent.com/u/2178243?v=3&s=460
 footer-links:
   dribbble:
   email: ngohaidang30@gmail.com
-  facebook:
+  facebook: https://www.facebook.com/aurona.cassily
   flickr:
   github: tiger30
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: devexperto1
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: +AntonioLeivaGordillo
+  googleplus: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
